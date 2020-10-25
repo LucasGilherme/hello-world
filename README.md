@@ -1,5 +1,5 @@
 # hello-world
-Project One
+<H1>Project One<h1/>
 Hey Dog!
 
-I´m Lucas, learning avadscript
+I´m Lucas, learning Javascript
